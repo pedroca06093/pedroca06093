@@ -1,6 +1,8 @@
 ## Olá usuário eu me chamo Pedro Márcio, sou estudante de Engenharia da Computação na Universidade Federal da Paraíba, te vejo na internet.
 <div align="center">
   <a href="https://github.com/pedroca06093">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pedroca06093&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroca06093&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
